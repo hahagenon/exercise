@@ -1,2 +1,5 @@
-## 프로젝트: 소떼 관리 로봇
-속도: 0.8m/s
+git checkout main
+echo "## Test" > test.md
+echo "속도: 0.8" >> test.md
+git add test.md
+git commit -m "main: 0.8"
